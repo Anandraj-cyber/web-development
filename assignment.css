@@ -1,0 +1,20 @@
+.card {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png)
+}
+.tag1 {
+    color: dimgray;
+    flex-direction: column;
+    text-align: center;
+
+}
+.tag2 {
+    color: #69b5eb;
+    flex-direction: column;
+    text-align: center;
+}
+.tag3 {
+    color: #69b5eb;
+    flex-direction: column;
+    text-align: center;
+}
+

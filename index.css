@@ -1,0 +1,34 @@
+.heading {
+    color: #eb1919;
+    text-align: center;
+    
+
+}
+.dog {
+    color: #8c0909;
+    text-decoration: line-through;
+    padding: 20px;
+    text-align: center;
+    
+}
+.button {
+    color: chocolate;
+    size: 20px;
+}
+.GitHub {
+    font-size: 25px;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: brown ;
+    margin: 100px;
+    border-radius: 25px;
+    border-top: #eb1919;
+    border-bottom: #8c0909;
+
+
+}
+.cat {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: slategrey;
+}
